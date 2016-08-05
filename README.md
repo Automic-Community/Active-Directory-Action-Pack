@@ -21,7 +21,7 @@ Documenation and Instructions
 <p>Pre-Requisites</p>
 <ul>
 <li>Automic 11.2 or above</li>
-<li><a href="https://marketplace.automic.com/details/plugin-manager" target="_blank">Plugin Manager</a></li>
+<li><a href="https://marketplace.automic.com/admin/marketplace/details/plugin-manager" target="_blank">Plugin Manager</a></li>
 <li>PowerShell</li>
 </ul>
 <p>Installation</p>
@@ -35,6 +35,7 @@ Documenation and Instructions
 </ol>
 <p>Available actions:</p>
 <ul>
+<li>Add Computer to Group</li>
 <li>Add User</li>
 <li>Add User to Group</li>
 <li>Change User</li>
@@ -43,7 +44,9 @@ Documenation and Instructions
 <li>Disable User</li>
 <li>Enable User</li>
 <li>Get User</li>
+<li>Get User Status</li>
 <li>List Group Members</li>
+<li>Remove Computer from Group</li>
 <li>Remove User</li>
 <li>Remove User from Group</li>
 <li>Reset Password</li>
